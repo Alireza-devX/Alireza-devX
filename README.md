@@ -35,8 +35,7 @@ A cross-platform mobile application focused on improving performance and optimiz
   - Reduced redundant API calls using caching strategies
   - Improved product loading speed and UI responsiveness
 
-<img algin="center" style="50%" src="https://capsule-render.vercel.app/api?type=rect&height=0.5&theme=gruvbox"  />
-
+## 
 
 ### Redfin Data Pipeline (Python)
 An ETL pipeline for processing large-scale US housing market data.
@@ -57,6 +56,6 @@ An ETL pipeline for processing large-scale US housing market data.
 
 <br>
 
-## 🖂 Contact 
+## @ Contact 
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alirezasanjerani24@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](#)
