@@ -26,6 +26,7 @@
 ### 
 
 ## 🗁 Projects 
+
 ### E-commerce Mobile App (Flutter) 
 A cross-platform mobile application focused on improving performance and optimizing data loading.
 - Built with: Flutter
@@ -33,6 +34,18 @@ A cross-platform mobile application focused on improving performance and optimiz
 - Key improvements:
   - Reduced redundant API calls using caching strategies
   - Improved product loading speed and UI responsiveness
+
+<img algin="center" style="50%" src="https://capsule-render.vercel.app/api?type=rect&height=0.5&theme=gruvbox"  />
+
+
+### Redfin Data Pipeline (Python)
+An ETL pipeline for processing large-scale US housing market data.
+- Built with: Python, Pandas
+- Focus: data processing, memory optimization 
+- Key highlights:
+  - Processed over 5 million records using batch processing 
+  - Reduced memory usage by 60% through data type optimization
+  - Stored processed data in Apache Parquet format for efficient analysis 
 
 --- 
 
