@@ -51,6 +51,8 @@ An ETL pipeline for processing large-scale US housing market data.
   - Reduced memory usage by 60% through data type optimization
   - Stored processed data in Apache Parquet format for efficient analysis 
 
+> [View Source Code](https://github.com/Alireza-devX/redfin-data-pipeline)
+
 --- 
 
 ## ⛶ Current Focus 
