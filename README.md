@@ -1,53 +1,49 @@
-<img src="hero-hi.gif" width="350"/>
+<img src="hero-hi.gif" width="350"/> 
 
 ###
 
-#### Frontend Developer focused on Flutter and Next.js<br>I build **scalable** UI systems for mobile and web applications
+#### Frontend Developer focused on Flutter and Next.js.<br> I build clean and performant UI systems for mobile and web applications.
 
-###
+<h2 align="left">ⓘ About Me</h2> <p align="left">I focus on building frontend applications with clean UI architecture and maintainable code.<br>I mainly work with Flutter for mobile and Next.js for web.<br>I am currently exploring Python for data and machine learning fundamentals.<br><br>Right now, I’m focused on the BuildAsome project, where through its challenges I’m gaining a new perspective on the web and how a compiled file works in the browser, and so on.</p> 
 
-<h2 align="left">About Me</h2>
-<p align="left">I focus on building frontend applications with clean UI architecture and maintainable code.<br>I mainly work with Flutter for mobile and Next.js for web.<br>I am currently exploring Python for data and machine learning fundamentals.</p>
-
-## Tech Stack
-
-**Frontend**
+## ⟡ ݁ Tech Stack 
+**Frontend** 
 - Flutter
 - Next.js (React)
 
 **Languages**
 - Dart
-- JavaScript
+- TypeScript
 - Python (learning)
+
 
 **Tools**
 - Git
 - GitHub
-  
+
 ###
+--- 
+### 
 
-## Projects
-
-### Flutter e-commerce
-
-This project focuses on solving a key performance issue: optimizing server requests and implementing efficient caching for product display data such as images, titles, prices, and related fields, significantly improving load time and user experience.
-
+## 🗁 Projects 
+### E-commerce Mobile App (Flutter) 
+A cross-platform mobile application focused on improving performance and optimizing data loading.
 - Built with: Flutter
-- Focus: UI, performance, state management
-  
-## Currently Learning
+- Focus: UI performance, state management, API handling
+- Key improvements:
+  - Reduced redundant API calls using caching strategies
+  - Improved product loading speed and UI responsiveness
 
-- Python for data analysis
-- Machine Learning fundamentals
-- System design basics
+--- 
 
+## ⛶ Current Focus 
 
-###
+- Developing real-world applications with Flutter and Next.js
+- Improving UI performance and application architecture
+- Exploring Python for data and machine learning fundamentals
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="24" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="24" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="24" alt="instagram logo"  />
-</div>
+<br>
 
-###
+## 🖂 Contact 
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your@email.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
