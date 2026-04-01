@@ -2,7 +2,7 @@
 
 ###
 
-#### Frontend Developer focused on Flutter and Next.js.<br> I build clean and performant UI systems for mobile and web applications.
+### Frontend Developer focused on Flutter and Next.js.<br> I build clean and performant UI systems for mobile and web applications.
 
 <h2 align="left">ⓘ About Me</h2> <p align="left">I focus on building frontend applications with clean UI architecture and maintainable code.<br>I mainly work with Flutter for mobile and Next.js for web.<br>I am currently exploring Python for data and machine learning fundamentals.<br><br>Right now, I’m focused on the BuildAsome project, where through its challenges I’m gaining a new perspective on the web and how a compiled file works in the browser, and so on.</p> 
 
