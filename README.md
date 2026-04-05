@@ -2,9 +2,10 @@
 
 ###
 
-### Frontend Developer focused on Flutter and Next.js.<br> I build clean and performant UI systems for mobile and web applications.
+### Frontend Developer (Flutter & Next.js)<br> Focused on building performant and well-structured UI systems.
 
-<h2 align="left">ⓘ About Me</h2> <p align="left">I focus on building frontend applications with clean UI architecture and maintainable code.<br>I mainly work with Flutter for mobile and Next.js for web.<br>I am currently exploring Python for data and machine learning fundamentals.<br><br>Right now, I’m focused on the BuildAsome project, where through its challenges I’m gaining a new perspective on the web and how a compiled file works in the browser, and so on.</p> 
+<h2 align="left">ⓘ About Me</h2> <p align="left">I build frontend applications with a strong focus on UI structure, state management, and performance.<br>My work involves designing maintainable interfaces and improving data flow between the UI and backend services.
+<br><br>Currently, I am working on the BuildAsome project, where I am improving my understanding of how web applications are structured and executed in the browser.</p> 
 
 ## ⟡ ݁ Tech Stack 
 **Frontend** 
@@ -29,14 +30,23 @@
 
 ### E-commerce Mobile App (Flutter) 
 
+A cross-platform mobile application focused on improving performance and optimizing product data loading.
 
+**Problem:**
+The app was making repeated API requests for product data, leading to slow loading times and inefficient performance.
 
-A cross-platform mobile application focused on improving performance and optimizing data loading.
-- Built with: Flutter
-- Focus: UI performance, state management, API handling
-- Key improvements:
-  - Reduced redundant API calls using caching strategies
-  - Improved product loading speed and UI responsiveness
+**Solution:**
+- Implemented a caching layer to store previously fetched data and reduce redundant API calls  
+- Structured the app using state management for better data flow and maintainability  
+
+**Technical highlights:**
+- Efficient handling of asynchronous API requests  
+- Improved UI responsiveness through optimized data loading  
+- Applied clean architecture principles to separate concerns  
+
+**Impact:**
+- Reduced unnecessary API calls  
+- Improved product loading speed and overall user experience  
 
 > [View Source Code](https://github.com/Alireza-devX/flutter-ecommerce-app)
 
@@ -57,9 +67,9 @@ An ETL pipeline for processing large-scale US housing market data.
 
 ## ⛶ Current Focus 
 
-- Developing real-world applications with Flutter and Next.js
-- Improving UI performance and application architecture
-- Exploring Python for data and machine learning fundamentals
+- Developing the BuildAsome project  
+- Improving frontend performance and architecture  
+- Strengthening problem-solving through real-world projects  
 
 <br>
 
